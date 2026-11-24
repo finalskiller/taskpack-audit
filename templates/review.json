@@ -1,0 +1,19 @@
+{
+  "candidate": "",
+  "submitted_at": "YYYY-MM-DD",
+  "environment": {
+    "built_from_dockerfile": false,
+    "dockerfile_modified": false,
+    "build_command": "",
+    "run_command": "",
+    "python_version": null,
+    "test_result": null,
+    "reward": null,
+    "completed": false,
+    "stopped_at": "",
+    "problems": [],
+    "notes": null
+  },
+  "test_review": [],
+  "rubric_review": []
+}

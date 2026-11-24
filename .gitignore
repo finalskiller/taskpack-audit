@@ -2,5 +2,5 @@ __pycache__/
 *.py[cod]
 .pytest_cache/
 work/
-review.json
+/review.json
 .DS_Store
